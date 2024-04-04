@@ -1,8 +1,16 @@
-# React + Vite
+# 💭 Random Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project generates a quote, something you can use when you need a bit of inspiration.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>💻 How to use</h2>
+<ul>
+  <li>Clone the repository. <br>
+    <code>git clone https://noorrulain.github.io/random-quote-generator/</code>
+  </li>
+  <li>Install all dependencies. <br>
+    <code>npm i</code>
+  </li>
+  <li>Run on your local server. <br>
+  <code>npm run dev</code> 
+  </li>
+</ul>
